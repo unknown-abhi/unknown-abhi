@@ -1,4 +1,4 @@
-**Hello ![](waving.gif) World!**
+**Hello ![alt text](waving.gif) World!**
 
 - 👋 Hi, I’m @unknown-abhi
 - 👀 I’m interested in ...
