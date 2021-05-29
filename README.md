@@ -8,6 +8,13 @@
 - 📫 How to reach me ... ![backhand_index_pointing_right](https://user-images.githubusercontent.com/49164677/120083213-b237a600-c0e4-11eb-8c28-c340eb71f9b6.gif) [Click Here](https://linktr.ee/unknown_abhi)
 
 
+![080-snapchat](https://user-images.githubusercontent.com/49164677/120084616-4d357d80-c0ef-11eb-88a8-3a4d1cb97c32.png)
+![089-telegram](https://user-images.githubusercontent.com/49164677/120084617-4dce1400-c0ef-11eb-9945-6418d8456164.png)
+![095-twitter](https://user-images.githubusercontent.com/49164677/120084618-4e66aa80-c0ef-11eb-905d-bba98ab6682b.png)
+![023-facebook](https://user-images.githubusercontent.com/49164677/120084619-4eff4100-c0ef-11eb-8a75-bd4faf25c52e.png)
+![044-instagram](https://user-images.githubusercontent.com/49164677/120084621-4eff4100-c0ef-11eb-9f55-a31cb0490677.png)
+![052-linkedin](https://user-images.githubusercontent.com/49164677/120084622-4f97d780-c0ef-11eb-8698-c3470e1356e3.png)
+
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=unknown-abhi&label=Profile%20views&color=0e75b6&style=flat" alt="unknown-abhi" /> </p>
