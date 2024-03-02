@@ -92,11 +92,13 @@
 
 ###
 
+#
+
 <img src="https://raw.githubusercontent.com/unknown-abhi/unknown-abhi/output/snake.svg" alt="Snake animation" />
 
 ###
 
----
+#
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/unknown-abhi/count.svg?"  />
