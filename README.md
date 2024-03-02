@@ -1,5 +1,5 @@
 ![718074](https://user-images.githubusercontent.com/49164677/120083255-08a4e480-c0e5-11eb-986f-d1a9039b8bbb.png)
-# Hello![](waving.gif) World! ![](globe.gif)
+# Hello![](.github/waving.gif) World! ![](.github/globe.gif)
 - 👋 Hi, I’m Abhishek Kumar
 - 👀 I’m interested in Programming, Gaming, and Development.
 - 🌱 I’m currently learning **everything...** ![cowboy_hat_face](https://user-images.githubusercontent.com/49164677/120082934-4dc81700-c0e3-11eb-988f-41c4e8c6b777.gif)
