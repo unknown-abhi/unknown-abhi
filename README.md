@@ -24,7 +24,7 @@
 ![unknown-abhi's Stats](https://github-readme-stats.vercel.app/api?username=unknown-abhi&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![unknown-abhi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=unknown-abhi&theme=dracula&hide_border=true)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown-abhi&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="unknown-abhi's Top Languages"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown-abhi&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="unknown-abhi's Top Languages">
   <img src=".github/tenor.gif" style="width:200px;">
 </div>
 
